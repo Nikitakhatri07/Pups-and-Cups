@@ -2,5 +2,4 @@
 Welcome to Pups &amp; Cups, where every sip comes with a wag! 🐾☕ Our pet-friendly café is the perfect hangout for animal lovers who don’t want to leave their furry friends behind. From delicious treats for humans to special goodies for pets, Pups &amp; Cups is all about good vibes, great coffee, and happy paws.
 
 
-## 🌐 Live Demo
-[![Visit Site](https://img.shields.io/badge/Visit%20Site-blue?style=for-the-badge)](https://nikitakhatri07.github.io/Pups-and-Cups/)
+
